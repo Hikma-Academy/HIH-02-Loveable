@@ -44,7 +44,8 @@ Once signed in, Lovable will guide you through a brief personalization menu:
 
 #### 🟦 Step 4: Build Your First App
 1. From your new Lovable Dashboard, click **"New Project"** (or use the main prompt bar).
-2. **Describe your idea** in plain English in the prompt box *(e.g., "Create a daily fitness habit tracker with a dark theme calendar heatmap")*.
-3. Watch the AI write the code and assemble the visual components in real-time.
-4. Use the **Chat panel on the left** to make text-based tweaks, or use the **Preview panel on the right** to interactively point-and-click elements you want to modify.
-5. Click **"Publish"** in the top right to instantly generate a live URL and share your prototype!
+2.  <img width="3326" height="1086" alt="image" src="https://github.com/user-attachments/assets/7f9b2c57-3f3a-49b2-9038-a141e4d8a4d9" />
+
+3. **Describe your idea** in plain English in the prompt box *(e.g., "Create a daily fitness habit tracker with a dark theme calendar heatmap")*.
+4. Watch the AI write the code and assemble the visual components in real-time.
+5. Use the **Chat panel on the left** to make text-based tweaks, or use the **Preview panel on the right** to interactively point-and-click elements you want to modify.
